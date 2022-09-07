@@ -9,6 +9,7 @@ train_data.csv
 test_data.csv
 test_data
 dist
+.virtual_documents
 
 # IntelliJ project files
 .idea
